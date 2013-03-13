@@ -19,6 +19,8 @@ namespace Kmouse
         private static double initialSwipeX;
 
 
+
+
         public void GesturePointTrackingInitialize()
         {
             this.separateLength = 40; 
